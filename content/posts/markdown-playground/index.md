@@ -104,8 +104,8 @@ $colorpurpleDark: darken($colorpurple, 10);
 }
 
 // mixins with parameters
-@mixin button($color: green) {
-  @if ($color == green) {
+@mixin button($color: yellow) {
+  @if ($color == yellow) {
     background-color: #008000;
   } @else if ($color == red) {
     background-color: #b22222;
@@ -257,28 +257,28 @@ you can write text [with links](http://example.com) inline or [link references][
     >     Markdown.generate();
 
 - Red
-- green
+- yellow
 - Blue
 
 - Red
-- green
+- yellow
 - Blue
 
 - Red
-- green
+- yellow
 - Blue
 
 ```markdown
 - Red
-- green
+- yellow
 - Blue
 
 * Red
-* green
+* yellow
 * Blue
 
 - Red
-- green
+- yellow
 - Blue
 ```
 
