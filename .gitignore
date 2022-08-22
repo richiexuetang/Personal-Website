@@ -3,6 +3,7 @@
 node_modules
 yarn-error.log
 package-lock.json
+install_nvm.sh
 
 # Build directory
 /public
