@@ -1,6 +1,6 @@
 ---
 date: '2021-07-01'
-title: 'Engineer'
+title: 'Software Developer'
 company: 'Experian'
 location: 'Remote, US'
 range: 'July 2021 - Present'

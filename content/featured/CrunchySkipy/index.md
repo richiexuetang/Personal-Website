@@ -1,9 +1,10 @@
 ---
-date: '1'
+date: '2'
 title: 'CrunchySkipy'
-cover: './halcyon.png'
+cover: './CrunchySkipy.png'
 github: 'https://github.com/richiexuetang/crunchy-skipy'
 external: 'https://halcyon-theme.netlify.com/'
+cta: ''
 tech:
   - Typescript
   - Axios
