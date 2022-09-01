@@ -1,9 +1,9 @@
 ---
-date: '2'
+date: '3'
 title: 'CrunchySkipy'
 cover: './CrunchySkipy.png'
 github: 'https://github.com/richiexuetang/crunchy-skipy'
-external: 'https://halcyon-theme.netlify.com/'
+external: ''
 cta: ''
 tech:
   - Typescript

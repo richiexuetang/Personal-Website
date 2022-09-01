@@ -13,4 +13,4 @@ tech:
   - Styled Components
 ---
 
-StockX clone (not yet) web application that has many modern web store features implemeted with scalable, maintainable designs. User can authenticate using email/password or Gmail through firebase authentication along with ability to checkout items in cart with mock Stripe API.
+StockX clone (coming soon) web application that has many modern web store features implemeted with scalable, maintainable designs. User can authenticate using email/password or Gmail through firebase authentication along with ability to checkout items in cart with mock Stripe API.
