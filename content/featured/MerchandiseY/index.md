@@ -1,6 +1,6 @@
 ---
-date: '1'
-title: 'MerchandiseY'
+date: '2'
+title: 'Ecommerce storefront'
 cover: './merchandiseY.png'
 github: 'https://github.com/richiexuetang/E-commerce'
 external: 'https://merchandisey.netlify.app/'

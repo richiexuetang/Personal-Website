@@ -1,13 +1,15 @@
 ---
-date: '2'
-title: 'MerchandiseY-UI'
+date: ''
+title: 'MerchandiseY'
 cover: './merchy-ui.png'
 github: 'https://github.com/richiexuetang/merchandisey-ui'
-external: 'https://merchy-ui.netlify.app/'
+external: 'https://merchy.cloud'
 tech:
-  - Typescript
-  - React
-  - Chakra UI
+  - Nextjs (React, Typescript)
+  - Django
+  - GraphQL
+  - AWS Elastic Beanstalk
+  - PostgreSQL
 ---
 
-StockX clone.
+Finely crafted headless commerce storefront that delivers ultra-fast, dynamic and personalized shopping experience.
